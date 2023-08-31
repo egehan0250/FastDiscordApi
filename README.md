@@ -1,15 +1,32 @@
 # fastDiscordApi
 Fast Discord Api; User, Server, Servers
 
-# 🎈 Images 🎈
-# /api/user/id
-![image](https://github.com/egehan0250/Captcha/assets/79449566/64172237-336e-44e4-819b-01dc94d4b8e4)
+# ⚓ End Points ⚓
 
-# /api/server/id
-![image](https://github.com/egehan0250/Captcha/assets/79449566/d7d8a437-fe75-4703-880e-adba5ee3f00a)
+```http
+  POST /api/user/id
+```
+![image](https://github.com/egehan0250/FastDiscordApi/assets/79449566/f7742d48-6200-41d7-aeb9-0e9db009de6c)
 
-# /api/servers
-![image](https://github.com/egehan0250/Captcha/assets/79449566/b0fa70a6-45d6-459a-ab0b-2d0039532c06)
+
+##
+```http
+  POST /api/server/id
+```
+![image](https://github.com/egehan0250/FastDiscordApi/assets/79449566/d54d84f5-e3f6-473a-bfde-c35bc437c692)
+
+
+##
+```http
+  POST /api/servers
+```
+![image](https://github.com/egehan0250/FastDiscordApi/assets/79449566/8b9651a0-ef4c-4280-9192-cd7f2c4096f6)
+
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `id`      | `string` | **Required**. Id of item to fetch |
+
 
 # 🛠️ Installation 🛠️
 
