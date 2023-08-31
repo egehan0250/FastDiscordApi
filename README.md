@@ -1,4 +1,4 @@
-# fastDiscordApi
+# FastDiscordApi
 Fast Discord Api; User, Server, Servers
 
 # ⚓ End Points ⚓
