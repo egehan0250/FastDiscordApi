@@ -4,21 +4,21 @@ Fast Discord Api; User, Server, Servers
 # ⚓ End Points ⚓
 
 ```http
-  POST /api/user/id
+  GET /api/user/id
 ```
 ![image](https://github.com/egehan0250/FastDiscordApi/assets/79449566/f7742d48-6200-41d7-aeb9-0e9db009de6c)
 
 
 ##
 ```http
-  POST /api/server/id
+  GET /api/server/id
 ```
 ![image](https://github.com/egehan0250/FastDiscordApi/assets/79449566/d54d84f5-e3f6-473a-bfde-c35bc437c692)
 
 
 ##
 ```http
-  POST /api/servers
+  GET /api/servers
 ```
 ![image](https://github.com/egehan0250/FastDiscordApi/assets/79449566/8b9651a0-ef4c-4280-9192-cd7f2c4096f6)
 
